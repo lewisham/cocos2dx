@@ -1,0 +1,13 @@
+.vs/
+Release.win32/
+Debug.win32/
+/runtime-src/proj.android/obj
+*.so
+*.dll
+*.suo
+*.db
+*.user
+*.filters
+*.obj
+*.o
+*.d
